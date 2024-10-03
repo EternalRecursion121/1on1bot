@@ -1,6 +1,5 @@
 # 1on1 Bot
-A discord bot that pairs up users within a server for weekly 1-1 calls. 
-Used by Atlas Fellows and SPARC2024 attendees. 
+Fork of https://github.com/brian-bfz/1on1bot for Vienna Hypersphere
 ## Installation
 1. Create an application on [Discord Developer Portal](https://discord.com/developers/applications). Invite it to your server with the permission to use applications.commands, manage roles, add reactions, send messages and ping members.
 2. Select or create a channel in your server for the bot to send messages to. Create a role named 1-1 and make sure it is below the bot's role. 
