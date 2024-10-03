@@ -25,9 +25,9 @@ let people = [];
 let week = 0;
 let guild;
 
-let serverid = "YOUR_SERVER_ID";
-let channelid = "YOUR_CHANNEL_ID";
-let adminid = "YOUR_USER_ID"; 
+let serverid = "1284565908156579900";
+let channelid = "1291511219626442765";
+let adminid = "672500045249249328"; 
 
 // Call init_db() if data.txt does not exist
 if (!fs.existsSync("data.txt")) {
