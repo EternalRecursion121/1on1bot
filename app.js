@@ -1001,3 +1001,7 @@ const job3 = cron.schedule(
 );
 
 client.login(process.env.TOKEN);
+
+client.on('error', (error) => {
+  console.error('Discord client error:', error);
+});
